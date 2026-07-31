@@ -15,7 +15,6 @@ I'm a Computer & Software Engineering student with a strong passion for Artifici
 ## 🛠️ Tech Stack
 - Python
 - C++
-- SQL
 - Pandas
 - NumPy
 - Scikit-learn
@@ -172,21 +171,21 @@ Completed a networking course covering network fundamentals, IP addressing, rout
 Completed a Python programming course covering Python fundamentals, data structures, functions, object-oriented programming (OOP), and problem-solving techniques for software development.
 
 ## 📫 Connect with Me
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- Email: your@email.com
+- GitHub: [https://github.com/YOUR_USERNAME](https://github.com/MohammedMohyi)
+- LinkedIn: [https://linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/mohammed-mohyi-mohammed-ab2bb1273)
+- Email: mohammedmohyi100@gmail.com
 
 ---
 
 ⭐ Thanks for visiting my profile! Feel free to explore my projects and connect with me.
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- Email: your@email.com
+- LinkedIn: [https://linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/mohammed-mohyi-mohammed-ab2bb1273)
+- Email: mohammedmohyi100@gmail.com
 
 ---
 
 ⭐ Thanks for visiting my profile! Feel free to explore my projects and connect with me.
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- Email: your@email.com
+- LinkedIn: [https://linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/mohammed-mohyi-mohammed-ab2bb1273)
+- Email: mohammedmohyi100@gmail.com
 
 ---
 

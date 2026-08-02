@@ -167,9 +167,6 @@ Completed the IBM AI Fundamentals program, where I learned the core concepts of 
 ### 🌐 Network Essentials – MaharaTech
 Completed a networking course covering network fundamentals, IP addressing, routing, switching, network protocols, and basic network troubleshooting.
 
-### 🐍 Python – Zero Academy
-Completed a Python programming course covering Python fundamentals, data structures, functions, object-oriented programming (OOP), and problem-solving techniques for software development.
-
 ## 📫 Connect with Me
 - GitHub: [https://github.com/YOUR_USERNAME](https://github.com/MohammedMohyi)
 - LinkedIn: [https://linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/mohammed-mohyi-mohammed-ab2bb1273)
